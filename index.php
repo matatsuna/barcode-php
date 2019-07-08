@@ -6,6 +6,15 @@
     <title>1次元バーコードジェネレーター</title>
     <meta name="Keywords" content="1次元バーコードジェネレーター" />
     <meta name="Description" content="1次元バーコードジェネレーター" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-62998505-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-62998505-11');
+</script>
   </head>
   <body>
       <div align=center>
